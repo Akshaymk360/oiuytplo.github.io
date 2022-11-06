@@ -1,0 +1,51 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: black;
+}
+
+.login_div_new
+{
+	background: red;float: none;border-radius: 15px;
+
+}
+.login_div
+{
+	background: red;float: none;border-radius: 15px;
+
+	height: 100px;;
+}
+.login_div1
+{
+	background: red;float: none;border-radius: 15px;
+
+	height: 50px;;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+#discription{
+width: 60%;
+}
+#scorecard{
+	width: 60%;
+
+}
+div.ex1 {
+	overflow: scroll;
+}
+#bodyimg{
+	background-image: url('background.jpeg');
+}
+#getdet{
+	background-color: gainsboro;
+	width: 150px;
+	height: 30px;
+	font-weight: bold;
+}
